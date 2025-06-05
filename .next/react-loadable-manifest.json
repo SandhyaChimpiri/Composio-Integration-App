@@ -1,0 +1,50 @@
+{
+  "components\\manual-tool-calling.tsx -> @monaco-editor/react": {
+    "id": "components\\manual-tool-calling.tsx -> @monaco-editor/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_monaco-editor_react_dist_index_mjs.js"
+    ]
+  },
+  "components\\manual-tool-calling\\ApiCodeTab.tsx -> @monaco-editor/react": {
+    "id": "components\\manual-tool-calling\\ApiCodeTab.tsx -> @monaco-editor/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_monaco-editor_react_dist_index_mjs.js"
+    ]
+  },
+  "components\\manual-tool-calling\\OAuthTab.tsx -> @monaco-editor/react": {
+    "id": "components\\manual-tool-calling\\OAuthTab.tsx -> @monaco-editor/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_monaco-editor_react_dist_index_mjs.js"
+    ]
+  },
+  "components\\manual-tool-calling\\OpenAITab.tsx -> @monaco-editor/react": {
+    "id": "components\\manual-tool-calling\\OpenAITab.tsx -> @monaco-editor/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_monaco-editor_react_dist_index_mjs.js"
+    ]
+  },
+  "components\\manual-tool-calling\\SchemaEditorTab.tsx -> @monaco-editor/react": {
+    "id": "components\\manual-tool-calling\\SchemaEditorTab.tsx -> @monaco-editor/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_monaco-editor_react_dist_index_mjs.js"
+    ]
+  },
+  "node_modules\\@tanstack\\query-devtools\\build\\dev.js -> ./DevtoolsComponent/OHEVZFKG.js": {
+    "id": "node_modules\\@tanstack\\query-devtools\\build\\dev.js -> ./DevtoolsComponent/OHEVZFKG.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_tanstack_query-devtools_build_DevtoolsComponent_OHEVZFKG_js.js"
+    ]
+  },
+  "node_modules\\@tanstack\\query-devtools\\build\\dev.js -> ./DevtoolsPanelComponent/ZXCTK5ZC.js": {
+    "id": "node_modules\\@tanstack\\query-devtools\\build\\dev.js -> ./DevtoolsPanelComponent/ZXCTK5ZC.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_tanstack_query-devtools_build_DevtoolsPanelComponent_ZXCTK5ZC_js.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  }
+}

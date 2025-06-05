@@ -1,0 +1,7 @@
+{
+  "/api/apps/route": "app/api/apps/route.js",
+  "/api/actions/route": "app/api/actions/route.js",
+  "/page": "app/page.js",
+  "/actions/manual-calling/page": "app/actions/manual-calling/page.js",
+  "/actions/page": "app/actions/page.js"
+}
