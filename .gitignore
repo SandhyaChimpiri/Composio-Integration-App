@@ -1,0 +1,27 @@
+# dependencies
+composio-dashboard/node_modules
+
+# next.js
+composio-dashboard/.next/
+composio-dashboard/out/
+
+# production
+composio-dashboard/build
+
+# debug
+composio-dashboard/npm-debug.log*
+composio-dashboard/yarn-debug.log*
+composio-dashboard/yarn-error.log*
+composio-dashboard/.pnpm-debug.log*
+
+# env files
+composio-dashboard/.env
+
+# vercel
+composio-dashboard/.vercel
+
+# typescript
+composio-dashboard/*.tsbuildinfo
+composio-dashboard/next-env.d.ts
+.env
+*node_modules
